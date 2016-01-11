@@ -1,4 +1,6 @@
 body {
+}
+.contenant {
   margin: auto;
   max-width: 960px;
   width: 100%;
@@ -14,3 +16,62 @@ a {
   text-decoration: none;
   color: #FFC274;
 }
+
+.bg-blanc {
+  background-color: #fff;
+  color: #fff;
+}
+
+.bg-alizarin {
+  background-color: #e74c3c;
+  color: #fff;
+}
+
+.bg-pomegranate {
+  background-color: #c0392b;
+  color: #fff;
+}
+
+.bg-amethyst {
+  background-color: #9b59b6;
+  color: #fff;
+}
+
+.bg-wisteria {
+  background-color: #8e44ad;
+  color: #fff;
+}
+
+.bg-turquoise {
+  background-color: #1abc9c;
+  color: #fff;
+}
+
+.bg-greensea {
+  background-color: #16a085;
+  color: #fff;
+}
+
+.bg-sunflower {
+  background-color: #f1c40f;
+  color: #fff;
+}
+
+.bg-orange {
+  background-color: #f39c12;
+  color: #fff;
+}
+
+.bg-belizehole {
+  background-color: #2980b9;
+  color: #fff;
+}
+
+.bg-concrete {
+  background-color: #95a5a6;
+  color: #fff;
+}
+
+.bg-blanc {
+  background-color: #fff;
+  color: #fff
